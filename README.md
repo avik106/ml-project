@@ -7,7 +7,7 @@ A content-based movie recommendation system built using **TF-IDF Vectorization**
 
 ## 🚀 Demo
 
-Try it live (optional): [https://movie-recommender-fe2cggrsftnmmfmeifovx8.streamlit.app/](#)  
+Try it live: [https://movie-recommender-fe2cggrsftnmmfmeifovx8.streamlit.app/](#)  
 
 ---
 
@@ -49,4 +49,4 @@ Try it live (optional): [https://movie-recommender-fe2cggrsftnmmfmeifovx8.stream
 - `pickle` (for saving model)
 
 ---
-
+# Author - Avik Sarkar
