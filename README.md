@@ -50,19 +50,3 @@ Try it live (optional): [https://movie-recommender-fe2cggrsftnmmfmeifovx8.stream
 
 ---
 
-## 🛠️ Installation & Setup
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/movie-recommender-tfidf.git
-cd movie-recommender-tfidf
-
-# (Optional) Create a virtual environment
-python -m venv venv
-source venv/bin/activate  # or venv\Scripts\activate on Windows
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the app
-streamlit run app.py
